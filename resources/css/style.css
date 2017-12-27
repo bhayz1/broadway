@@ -1,0 +1,37 @@
+html {
+  text-align: center;
+  font-family: Helvetica;
+}
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: White;
+}
+.header {
+  background-image: url("../images/bld.png");
+}
+.menu {
+  font-size: 18px;
+  color: White;
+}
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+p {
+  font-size: 14px
+}
+.designed {
+  color: White;
+  background-image: url("../images/bld.png");
+}
+.footer {
+  background-color: dimgray;
+  font-size: 11px;
+  text-align: left;
+  color: White;
+}
