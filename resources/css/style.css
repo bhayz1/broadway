@@ -9,6 +9,7 @@ h1 {
 }
 .header {
   background-image: url("../images/bld.png");
+  background-size: cover;
 }
 .menu {
   font-size: 18px;
